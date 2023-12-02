@@ -19,7 +19,7 @@ def prepare_args():
     parser.add_argument("--max_nft_count", type=int, default=5)
     parser.add_argument("--user_iters", type=int, default=128) 
     parser.add_argument("--n_iters", type=int, default=128) 
-    parser.add_argument("--auction_iters", type=int, default=128) 
+    parser.add_argument("--auction_iters", type=int, default=32) 
     parser.add_argument("--auction_init", type=int, default=1) 
     parser.add_argument("--user_eps", type=float, default=1e-4)
     parser.add_argument("--eps", type=float, default=1000)
