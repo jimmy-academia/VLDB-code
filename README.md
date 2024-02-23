@@ -1,5 +1,5 @@
-# ICDE24
-open source code for ICDE 2024 submission # 774
+# VLDB-1536
+open source code for VLDB Research track -> March 2024 submission # 1536
 
 ## Usage
 - The long version paper with full theorem proofs can be found in [`doc/ICDE_24_long.pdf`](doc/ICDE_24_long.pdf).
